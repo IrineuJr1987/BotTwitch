@@ -1,0 +1,12 @@
+:) Traduzindo para você! Digite !traduzir [texto em inglês] para traduzir para o português.
+:) Vamos ver o que os astros dizem hoje! Digite !horóscopo e o seu signo para descobrir.
+:) Quer saber como está o tempo lá fora? Digite !clima e o nome da sua cidade para saber.
+:) Hora de rir um pouco! Digite !piada para uma piada aleatória.
+:) Hora de ver as runas da vitória! Digite !runas e o nome do monstro para ver suas runas.
+:) Digite !rta e o nome do monstro para ver os dados de batalha na atual season
+:) Vamos pegar um Pokémon! Digite 'pokebola vai' para ver qual será o seu novo companheiro.
+:) Eu vou advinhar o seu próximo nat 5 que você terá, digite food supremo no chat e descubra!!
+:) Digite !audio e sua mensagem,após uma aprovação eu vou falar pra vc live... ou não rsrs!!
+:) Quem não gosta de uma boa curiosidade? Com o nosso comando !curiosidade, você pode descobrir fatos interessantes e surpreendentes sobre o mundo!
+:) Agora, você pode me transformar com os filtros incríveis que estão disponíveis em nossa loja de pontos!
+:) Esse Bot foi desenvolvido totalmente na Linguagem Python pelo nosso Streamer @MrQuantum_Br

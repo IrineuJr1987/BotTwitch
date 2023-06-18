@@ -128,17 +128,17 @@ class Bot(commands.Bot):
         # prefix can be a callable, which returns a list of strings or a string...
         # initial_channels can also be a callable which returns a list of strings...
         nick_bot = "QuantumGPT"
-        super().__init__(token='ohk6cgcc7rjqoxrbhqaxow3s6qex05',
+        super().__init__(token='',
                          nick = nick_bot,
                          prefix='?',
-                         initial_channels=['mrquantum_br'])
+                         initial_channels=[''])
         
         self.pubsub = pubsub.PubSubPool(self)
       
 
     
     async def event_ready(self):
-        channel = self.get_channel('mrquantum_br')
+        channel = self.get_channel('')
         await channel.send('!start')
         await channel.send('!iniciar_jogo')
 

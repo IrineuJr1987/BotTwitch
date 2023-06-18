@@ -27,11 +27,11 @@ trainer = ChatterBotCorpusTrainer(chatbot)
 #trainer.train("G:\\Meu Drive\\Programacao\\BotTwitch\\files\\sw.yml")
 
 
-my_token = "ohk6cgcc7rjqoxrbhqaxow3s6qex05"
-users_oauth_token = "jcm9esnhlv8uiskealh9nqdasjgm3b"
-users_channel_id = 400295850
+my_token = ""
+users_oauth_token = ""
+users_channel_id = 
 
-client = twitchio.Client("ohk6cgcc7rjqoxrbhqaxow3s6qex05", initial_channels=["mrquantum_br"])
+client = twitchio.Client("ohk6cgcc7rjqoxrbhqaxow3s6qex05", initial_channels=["seucanalaqui"])
 client.pubsub = pubsub.PubSubPool(client)
 
 #configurações dos filtros do Snap
